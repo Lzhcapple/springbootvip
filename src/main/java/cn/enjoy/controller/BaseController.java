@@ -9,6 +9,6 @@ public class BaseController {
 
     @RequestMapping("/404.do")
     public Object error_404() {
-        return "你要找的页面，被lison偷吃了！";
+        return "你要找的页面，被lison偷吃了！-git";
     }
 }
