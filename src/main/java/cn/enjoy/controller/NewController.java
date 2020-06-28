@@ -2,6 +2,6 @@ package cn.enjoy.controller;
 
 public class NewController {
     public static void main(String[] args) {
-        System.out.println("v0.6");
+        System.out.println("v0.7 -合并分支");
     }
 }
